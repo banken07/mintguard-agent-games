@@ -1,0 +1,12 @@
+# Secrets and runtime state — never commit
+secret.env
+seen.json
+dispatch.log
+server.log
+server-test.log
+tunnel.log
+tunnel.url
+tunnel.url.tmp
+supervisor.log
+*.pid
+node_modules/

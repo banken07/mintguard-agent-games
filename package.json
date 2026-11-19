@@ -1,0 +1,1 @@
+{"description":"MintGuard — Agent Games Wildcard agent endpoint (protocol-v1, HMAC-signed, fail-closed)","engines":{"node":">=18"},"name":"mintguard-agent-games-wildcard","private":true,"scripts":{"start":"node server.mjs","test":"node test-preflight.mjs"},"type":"module","version":"1.0.0"}
